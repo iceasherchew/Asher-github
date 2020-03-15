@@ -1,6 +1,6 @@
 # Classification with Natual Language Processing
 
-## Problem Statement: 
+## Problem Statement (fictional): 
 A virtual reality gaming company has engaged me to help with their advertisements and marketing via a popular social media platform for 2 games: Basketball and Baseball.
 
 The firm is interested in a "per impressions scheme", which enables them to select a user's feed to post the advertisements on and pay by the number of impressions. As prices of advertisements are steep, they want their advertisements to reach out to the right target audience. 
