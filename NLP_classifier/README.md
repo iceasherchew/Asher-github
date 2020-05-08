@@ -132,3 +132,10 @@ Finally, using this model on unseen text data set in the social media platform, 
 
 This model is, however, not without limitations. Having only basketball and baseball documents does not mean that we can identify a baseball/basketball text from a non-baseball/non-basketball text well. To do so, future versions of this prototype model should include other random text and topics that are not baseball and baseketball. This is important as post on the social media platform are not exclusively basketball or baseball but contains other contents. 
 
+
+
+## EXTRA 
+
+![](images/ensemble.png)
+
+Last but not least, this work has been improved on by using an ensemble model! Check out the codes in the note book. 
